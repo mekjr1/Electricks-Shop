@@ -1,5 +1,5 @@
 <?php
-$dbconn = mysqli_connect("den1.mysql1.gear.host","root","Fv9up6?lf~nN","electricksdb");
+$dbconn = mysqli_connect("den1.mysql1.gear.host","electricksdb","Fv9up6?lf~nN","electricksdb");
 
 // Check connection
 if (mysqli_connect_errno())
